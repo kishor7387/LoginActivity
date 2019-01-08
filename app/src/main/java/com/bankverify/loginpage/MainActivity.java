@@ -19,4 +19,12 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+    private void Test1() {
+        int i2 = 1 + 1;
+
+
+    }
+
+
 }
